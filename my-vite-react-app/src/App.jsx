@@ -6,7 +6,8 @@ import Doctors from "./pages/Doctors/doctors";
 import Fees from "./pages/Fees/fees";
 import Contact from "./pages/Contact/contact";
 import Footer from "./components/Footer/footer";
-import "./style.scss"
+import Testimonial from "./pages/Testimonial/testimonial";
+import "./App.scss"
 
 // layout to keep nav and footer loaed with the outlet being the pages
 const Layout = () => {
@@ -35,6 +36,10 @@ const router = createBrowserRouter([
       {
         path:"/Fees",
         element: <Fees/>
+      },
+      {
+        path:"/Testimonial",
+        element:<Testimonial/>
       },
       {
         path:"/Contact",
