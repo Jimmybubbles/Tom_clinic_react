@@ -1,12 +1,14 @@
 import { BrowserRouter, Routes, Route, createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
 
 import Navbar from "@/components/Navbar/navbar";
-import Home from "./pages/home";
-import Doctors from "./pages/Doctors";
-import Fees from "./pages/Fees";
-import Contact from "./pages/Contact";
+import Home from "./pages/Home/home";
+import Doctors from "./pages/Doctors/doctors";
+import Fees from "./pages/Fees/fees";
+import Contact from "./pages/Contact/contact";
 import Footer from "./components/Footer/footer";
+import "./style.scss"
 
+// layout to keep nav and footer loaed with the outlet being the pages
 const Layout = () => {
   return (
     <>
@@ -44,8 +46,10 @@ const router = createBrowserRouter([
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
+      <div className="container">
       <RouterProvider router={router}/>
+      </div>
     </div>
   );
 }
