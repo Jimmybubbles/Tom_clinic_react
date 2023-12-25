@@ -39,9 +39,10 @@ function testimonial() {
       The clinic itself is well-equipped with modern facilities, 
       </p>
       <p>
-      The clinic itself is well-equipped with modern facilities, 
-      creating a sense of confidence in the quality of care. The efficiency of the staff, 
-      coupled with Dr. Russell's expertise, ensured a smooth and timely visit. 
+      Clinical Therapy is a true embodiment of patient-centered care. 
+      During my first appointment, Dr. Russell took the time to listen attentively to my concerns, 
+      displaying a genuine interest in my overall well-being. His thorough and empathetic approach made me feel heard and understood, 
+      something I value immensely in a healthcare provider.
       
       </p>
     </article>
@@ -56,10 +57,12 @@ function testimonial() {
         </div>
       </div>
       <p>
-        An overall wonderful and rewarding experience</p>
+      Such a life-changing experience. Highly recommended!</p>
       <p>
-        “ Thank you for the wonderful experience! I now have a job I really enjoy, and make a good living
-        while doing something I love. ”
+      Clinical Therapy is a true embodiment of patient-centered care. 
+      During my first appointment, Dr. Russell took the time to listen attentively to my concerns, 
+      displaying a genuine interest in my overall well-being. His thorough and empathetic approach made me feel heard and understood, 
+      something I value immensely in a healthcare provider.
       </p>
     </article>
     <article class="testimonial grid-col-span-2 flow bg-secondary-500 text-neutral-100">
@@ -77,10 +80,10 @@ function testimonial() {
         learning from their experiences was easy.
       </p>
       <p>
-        “ The staff seem genuinely concerned about my progress which I find really refreshing. The program
-        gave me the confidence necessary to be able to go out in the world and present myself as a capable
-        junior developer. The standard is above the rest. You will get the personal attention you need from
-        an incredible community of smart and amazing people. ”
+      Clinical Therapy is a true embodiment of patient-centered care. 
+      During my first appointment, Dr. Russell took the time to listen attentively to my concerns, 
+      displaying a genuine interest in my overall well-being. His thorough and empathetic approach made me feel heard and understood, 
+      something I value immensely in a healthcare provider.
       </p>
     </article>
     <article class="testimonial flow bg-neutral-100 text-secondary-400">
@@ -97,14 +100,10 @@ function testimonial() {
         Such a life-changing experience. Highly recommended!
       </p>
       <p>
-        “ Before joining the bootcamp, I’ve never written a line of code. I needed some structure from
-        professionals who can help me learn programming step by step. I was encouraged to enroll by a former
-        student of theirs who can only say wonderful things about the program. The entire curriculum and staff
-        did not disappoint. They were very hands-on and I never had to wait long for assistance. The agile team
-        project, in particular, was outstanding. It took my learning to the next level in a way that no tutorial
-        could ever have. In fact, I’ve often referred to it during interviews as an example of my developent
-        experience. It certainly helped me land a job as a full-stack developer after receiving multiple offers.
-        100% recommend! ”
+      Clinical Therapy is a true embodiment of patient-centered care. 
+      During my first appointment, Dr. Russell took the time to listen attentively to my concerns, 
+      displaying a genuine interest in my overall well-being. His thorough and empathetic approach made me feel heard and understood, 
+      something I value immensely in a healthcare provider.
       </p>
     </article>
   </main>
