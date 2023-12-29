@@ -4,9 +4,10 @@ import Navbar from "@/components/Navbar/navbar";
 import Home from "./pages/Home/home";
 import Doctors from "./pages/Doctors/doctors";
 import Fees from "./pages/Fees/fees";
-import Contact from "./pages/Contact/contact";
 import Footer from "./components/Footer/footer";
 import Testimonial from "./pages/Testimonial/testimonial";
+import PatientForm from "./pages/PatientForm/PatientForm";
+import BookAppointment from "./pages/BookAppointment/bookappointment";
 import "./App.scss"
 
 // layout to keep nav and footer loaed with the outlet being the pages
@@ -38,13 +39,18 @@ const router = createBrowserRouter([
         element: <Fees/>
       },
       {
+        path:"/PatientForm",
+        element: <PatientForm/>
+      },
+      {
         path:"/Testimonial",
         element:<Testimonial/>
       },
       {
-        path:"/Contact",
-        element: <Contact/>
+        path:"/BookAppointment",
+        element:<BookAppointment/>
       },
+
     ]
 }])
  

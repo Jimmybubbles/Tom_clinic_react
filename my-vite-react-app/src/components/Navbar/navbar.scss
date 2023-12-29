@@ -6,6 +6,8 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
+
+
       .logo {
         img {
           width: 120px;
@@ -15,6 +17,8 @@
         display: flex;
         align-items: center;
         gap: 10px;
+
+
 
         h6 {
           font-size: 16px;
@@ -35,6 +39,17 @@
           justify-content: center;
           font-weight: 300;
           border: 1px solid white;
+
+          .button {
+            background-color: #04AA6D; /* Green */
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+          }
 
           &:hover {
             color: teal;
